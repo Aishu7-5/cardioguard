@@ -5,7 +5,7 @@
 # ─────────────────────────────────────────────
  
 # Core ML / DL
-tensorflow
+tensorflow-cpu==2.16.1
 scikit-learn
 imbalanced-learn
 joblib
